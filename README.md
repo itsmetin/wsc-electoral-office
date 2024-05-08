@@ -2,9 +2,9 @@
 
 ## Requirements
 
-* PHP >=5.3
+* PHP
 * Mysql 5
-* WCS 5.2+
+* WCS 5.5+
 
 ## Installation
 
